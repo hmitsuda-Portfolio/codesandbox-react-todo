@@ -1,7 +1,7 @@
 import React from 'react'
 
 export const IncompleteTodo = (props) => {
-    const {todos, onClickDelete, onClickComplete} = props；
+    const {todos, onClickDelete, onClickComplete} = props;
 
   return (
     <div className="incomplete-area">
